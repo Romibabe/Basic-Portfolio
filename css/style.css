@@ -1,0 +1,51 @@
+#main-menu
+{
+	background-color:grey;
+	margin:20px;
+	padding:20px;
+  
+    
+
+}
+
+section
+{
+	background-color:lightgrey;
+	margin:20px;
+	padding:20px;
+    height:300px;
+}
+  
+#describe-me
+{
+	background-color:grey;
+	margin:20px;
+	padding:20px;
+    height:120px;
+    width:40%; 
+    float:left;
+}
+
+#connect
+{
+	background-color:grey;
+	margin:20px;
+	padding:20px;
+    height:120px;
+    width:20%;
+    float:right;
+
+}
+
+footer{
+
+
+	background-color:grey;
+	margin:20px;
+	padding:20px;
+
+
+}
+
+
+
